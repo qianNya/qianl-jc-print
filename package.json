@@ -1,6 +1,6 @@
 {
   "name": "qianl-jc-print",
-  "version": "0.0.2",
+  "version": "0.0.1",
   "description": "精臣打印机js",
   "main": "lib/index.js",
   "types": "lib/index.d.js",
@@ -20,6 +20,11 @@
   "dependencies": {
     "typescript": "^5.0.4"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/qianNya/qianl-jc-print.git"
+  },
+  "keywords": ["精臣", "打印机"],
   "devDependencies": {
     "@types/jest": "^29.5.1",
     "jest": "^29.5.0",
